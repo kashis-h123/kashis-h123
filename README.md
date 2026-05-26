@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kashish Shimpi</h1>
-<h3 align="center">Frontend Developer | Python Developer | ML Enthusiast</h3>
+<h3 align="center">Frontend Developer | HTML • CSS • JavaScript • React</h3>
 
 <p align="center">
   <a href="https://github.com/kashis-h123">
